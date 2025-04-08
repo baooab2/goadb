@@ -8,7 +8,7 @@ import (
 	"log"
 	"time"
 
-	adb "github.com/prife/goadb"
+	adb "DomaphoneS-Next/backend/goadb"
 )
 
 var (

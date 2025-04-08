@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/prife/goadb/wire"
+	"DomaphoneS-Next/backend/goadb/wire"
 )
 
 type DeviceInfo struct {

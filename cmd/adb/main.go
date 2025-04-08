@@ -10,10 +10,11 @@ import (
 	"syscall"
 	"time"
 
+	adb "DomaphoneS-Next/backend/goadb"
+	"DomaphoneS-Next/backend/goadb/wire"
+
 	"github.com/alecthomas/kingpin/v2"
 	"github.com/cheggaaa/pb"
-	adb "github.com/prife/goadb"
-	"github.com/prife/goadb/wire"
 )
 
 const StdIoFilename = "-"

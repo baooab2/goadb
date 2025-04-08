@@ -4,7 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/prife/goadb/services"
+	"DomaphoneS-Next/backend/goadb/services"
+
 	"github.com/prife/gomlib"
 	log "github.com/sirupsen/logrus"
 )

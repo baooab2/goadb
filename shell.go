@@ -8,7 +8,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/prife/goadb/wire"
+	"DomaphoneS-Next/backend/goadb/wire"
 )
 
 // RunShellCommand runs the specified commands on a shell on the device.

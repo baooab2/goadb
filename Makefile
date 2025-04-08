@@ -30,7 +30,7 @@ ifeq ($(GOOS),windows)
 endif
 
  #git.woa.com/CloudTesting/CloudServer/taskd
-PROJECT := github.com/prife/goadb
+PROJECT := DomaphoneS-Next/backend/goadb
 BINDIR := /usr/local/bin
 
 VERSION := $(shell git describe --tags --dirty --always)

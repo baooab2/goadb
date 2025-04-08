@@ -11,8 +11,9 @@ import (
 	"testing"
 	"time"
 
-	adb "github.com/prife/goadb"
-	"github.com/prife/goadb/wire"
+	adb "DomaphoneS-Next/backend/goadb"
+	"DomaphoneS-Next/backend/goadb/wire"
+
 	"github.com/stretchr/testify/assert"
 )
 

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/prife/goadb/wire"
+	"DomaphoneS-Next/backend/goadb/wire"
 )
 
 const (

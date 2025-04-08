@@ -1,4 +1,4 @@
-module github.com/prife/goadb
+module DomaphoneS-Next/backend/goadb
 
 go 1.18
 

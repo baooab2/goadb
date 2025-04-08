@@ -3,7 +3,8 @@ package adb
 import (
 	"testing"
 
-	"github.com/prife/goadb/wire"
+	"DomaphoneS-Next/backend/goadb/wire"
+
 	"github.com/stretchr/testify/assert"
 )
 

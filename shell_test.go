@@ -5,7 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	adb "github.com/prife/goadb"
+	adb "DomaphoneS-Next/backend/goadb"
+
 	"github.com/stretchr/testify/assert"
 )
 
